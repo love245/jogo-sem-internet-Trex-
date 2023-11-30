@@ -1,2 +1,1 @@
-# jogo-sem-internet-Trex-
-O jogo do trex para todas as telas
+# PRO-C16-AA2
